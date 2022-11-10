@@ -1,5 +1,5 @@
 import json
-#testado aprovacoes
+#testado aprovacoes ok
 def lambda_handler(event, context):
     try:
         test=event.get('queryStringParameters')
