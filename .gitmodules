@@ -1,0 +1,3 @@
+[submodule "lambda-python"]
+	path = lambda-python
+	url = git@github.com:peterpenido/lambda-python.git
